@@ -1,4 +1,4 @@
-  Hi, I'm Michael De Marco 👋
+- Hi, I'm Michael De Marco 👋
 
 - 🔭 I’m currently learning C# through Code Kentucky.
 - 👯 I’m looking to collaborate on Financial Tech products.
